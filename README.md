@@ -8,7 +8,7 @@ source .venv/bin/activate
 source setup.sh
 ```
 
-# Configuración en Windows
+# Configuración en Windows testeo de push
 
 Ejecute los siguientes comandos en el terminal:
 
